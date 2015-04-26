@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">NavTab</string>
+
+    <string name="categorised">Categorised</string>
+    <string name="individual">Individual</string>
+
+    <string-array name="nav_titles">
+        <item>Categorised</item>
+        <item>Individual</item>
+    </string-array>
+
+    <string-array name="nav_icons">
+        <item>@mipmap/ic_launcher</item>
+        <item>@mipmap/ic_launcher</item>
+    </string-array>
+
+    <string name="sagar">Sagar</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
